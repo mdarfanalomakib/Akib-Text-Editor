@@ -17,9 +17,6 @@ A simple text editor designed for reading and writing `.akib` text files.
 3. Select 'Open' button and browse for '.akib' files.
 4. Then open the file and edit it.
 
-## 📸 Screenshots
-![Screenshot](assets/screenshot.png)
-
 ## 🤝 Contribution
 Feel free to fork and submit pull requests!
 
